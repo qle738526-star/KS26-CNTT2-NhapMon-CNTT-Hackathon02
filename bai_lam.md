@@ -191,7 +191,8 @@ Property :
 - **Context:** Vào website và không thấy logo và bảng giá spa, dùng F12 và F5 để load lại thì thấy 2 thông báo lỗi, đang sử dụng hệ điều hành windown
 - **Expected:** sửa được lỗi logo và bảng giá để xem được nội dung theo đúng kê khai 
 - **Actual:** logo vẫn trống trơn và bảng giá chỉ xuất hiện tiêu đề và chưa biết cách sửa 
-- **Log:** GET file:///C:/starter-kit%20(1)/starter-kit/spa-website/web/images/logo.png net::ERR_FILE_NOT_FOUND
+- **Log:**
+- GET file:///C:/starter-kit%20(1)/starter-kit/spa-website/web/images/logo.png net::ERR_FILE_NOT_FOUND
 - Uncaught ReferenceError: hienThiGoiDichVu is not defined 
 
 ### Câu tìm kiếm Google
