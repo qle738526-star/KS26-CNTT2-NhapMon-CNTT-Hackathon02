@@ -4,7 +4,7 @@
 - **Họ tên:** Lê Quốc Minh Quân
 - **Lớp:** CNTT2
 - **Link repository:** KS26-CNTT2-NhapMon-CNTT-Hackathon02
-- **Hệ điều hành (Windows/macOS):**
+- **Hệ điều hành (Windows/macOS):** Window
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
 
